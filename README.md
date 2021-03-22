@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DhakshinP
-- 👀 I’m interested in cybersecurity and programming.(currently working in swift and python)
+- 👀 I’m interested in cybersecurity and app development.(Interested in swift and python)
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on Modern Analytical Engine MAE.
 - 📫 How to reach me dhakshinpari@gmail.com 
